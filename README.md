@@ -18,7 +18,6 @@ PowerTray is a lightweight Windows utility that automatically switches your powe
 3. Open the app interface to choose your preferred balanced and high-performance power plans.
 4. Drag and drop your game executables or launchers into their respective sections.
 
-```cmd
 python -m PyInstaller --noconfirm --onedir --windowed --name "PowerTray" --additional-hooks-dir=. main.py
 <img width="1147" height="787" alt="Powertray1" src="https://github.com/user-attachments/assets/0eebec4c-e70f-4142-a1c4-db9688adb624" />
 <img width="450" height="311" alt="Powertray2" src="https://github.com/user-attachments/assets/5f8ee053-50a2-4588-8bb5-f42eaf82df22" />
